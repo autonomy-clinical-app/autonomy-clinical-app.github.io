@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-first_name: Medical Robotics @ IROS 2023 
+first_name: Medical Robotics @ IROS 2024 
 last_name:
-title: Data vs. Model in Medical Robotics @ IROS 2023 # the website title (if blank, full name will be used instead)
-email: yash.chitalia@louisville.edu
+title: DTowards Autonomy in Endoluminal Clinical Applications @ IROS 2024 # the website title (if blank, full name will be used instead)
+email: giovanni.pittiglio@childrens.harvard.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A workshop to discuss a data-driven vs. model-based approach to the field of medical robotics.
+  A workshop to discuss autonomy in medical robotics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -16,7 +16,7 @@ keywords: score functions, score-based methods, diffusion  # add your own keywor
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ∇  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://medrob-workshop.github.io # the base hostname & protocol for your site
+url: https://autonomy-clinical-app.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
