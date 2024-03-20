@@ -4,7 +4,7 @@
 
 first_name: Medical Robotics @ IROS 2024 
 last_name:
-title: DTowards Autonomy in Endoluminal Clinical Applications @ IROS 2024 # the website title (if blank, full name will be used instead)
+title: Towards Autonomy in Endoluminal Clinical Applications @ IROS 2024 # the website title (if blank, full name will be used instead)
 email: giovanni.pittiglio@childrens.harvard.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A workshop to discuss autonomy in medical robotics.
