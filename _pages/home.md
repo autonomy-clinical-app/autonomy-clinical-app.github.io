@@ -41,7 +41,7 @@ The workshop will feature late breaking results as [**Poster Submissions**](#pos
 # Poster Submissions
 The workshop will feature poster presentations. 
 
-Late breaking results may be submitted as a **3-page PDF** in the **IEEE conference format** at [this link](https://openreview.net/group?id=IEEE.org/2023/IROS/Workshop/DMMR&referrer=%5BHomepage%5D(%2F)).
+Late breaking results will be accepted as a **3-page PDF** in the **IEEE conference format**. Submissions will open on July 1, 2024.
 
 **Submission Deadline is August 1, 2024 at 11:59 PM GMT**. 
 
