@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-home_title: <b>Data vs Model in Medical Robotics @ IROS 2023</b>
+home_title: <b>Towards Autonomy in Endoluminal Clinical Applications @ IROS 2024</b>
 subtitle:
 nav_title: Home
 permalink: /
-description: A comparison of data-based and model-based approaches to medical robotics.
+description: Debate on autonomy for robots in endoluminal applications.
 ---
 
 # Workshop Description
@@ -39,7 +39,7 @@ The workshop will feature late breaking results as [**Poster Submissions**](#pos
 
 
 # Poster Submissions
-Data vs. Model in Medical Robotics will feature poster presentations. 
+The workshop will feature poster presentations. 
 
 Late breaking results may be submitted as a **3-page PDF** in the **IEEE conference format** at [this link](https://openreview.net/group?id=IEEE.org/2023/IROS/Workshop/DMMR&referrer=%5BHomepage%5D(%2F)).
 
