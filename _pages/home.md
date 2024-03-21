@@ -29,8 +29,6 @@ The workshop will feature late breaking results as [**Poster Submissions**](#pos
 
   {% include people_horizontal.html name="Pietro Valdastri" affiliation="University of Leeds" url="" img="/assets/img/people/pietro.jpg" %}
 
-  {% include people_horizontal.html name="Tania Morimoto" affiliation="University of California San Diego" url="" img="/assets/img/people/tania.png"%}
-
   {% include people_horizontal.html name="Jaydev Desai" affiliation="Georgia Institute of Technology" url="" img="/assets/img/people/jaydev.jpg" %}
   
   {% include people_horizontal.html name="Elena De Momi" affiliation="Politecnico di Milano" url="" img="/assets/img/people/elena.png" %}
