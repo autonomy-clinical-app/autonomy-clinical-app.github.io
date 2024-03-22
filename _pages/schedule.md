@@ -12,10 +12,10 @@ nav_order: 1
 | 8:30| **Registration - Coffee and Poster Setup Time** |
 | 8:45| **Introduction** |
 | 9:00 | **Bradley Nelson**: Remote Magnetic Navigation and Shared Autonomy |
-| 9:30 | **Nabil Simaan**:  |
+| 9:30 | **Nabil Simaan**:  Semi Automation to Full Automation of Continuum and Soft Robots Via Intraoperative Sensory and Image Guided Feedback|
 | 10:00 | **Pierre E. Dupont**:  |
 | 10:30 | Coffee Break and Poster Session|
-| 11:30 | **Tania Morimoto**: |
+| 11:30 | **Jaydev Desai**: Robotically Steerable Guidewire for Endovascular Interventions|
 | 12:00 | **Pietro Valdastri**: Soft magnetic surgical robots for cancer screening and treatment|
 | 12:30 | Lunch Break and Poster Session|
 | 13:30 | **Elena De Momi**: |
