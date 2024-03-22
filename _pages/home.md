@@ -35,6 +35,10 @@ The workshop will feature late breaking results as [**Poster Submissions**](#pos
   
   {% include people_horizontal.html name="Max Q.-H. Meng" affiliation="Southern University of Science and Technology" url="" img="/assets/img/people/max.jpg" %}
 
+  {% include people_horizontal.html name="Giovanni Pittiglio" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://giovannipittiglio.github.io/" img="/assets/img/people/gio.png" %}
+  
+  {% include people_horizontal.html name="Pierre E. Dupont" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://robotics.tch.harvard.edu/" img="/assets/img/people/pierre.jpg" %}
+
 </div>
 
 
@@ -52,4 +56,5 @@ For any questions, please reach out to [info.medrob.workshop@gmail.com](mailto:i
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Giovanni Pittiglio" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://giovannipittiglio.github.io/" img="/assets/img/people/gio.png" %}
   {% include people_horizontal.html name="Pierre E. Dupont" affiliation="Boston Children's Hospital/Harvard Medical School" url="https://robotics.tch.harvard.edu/" img="/assets/img/people/pierre.jpg" %}
+    {% include people_horizontal.html name="Nabil Simaan" affiliation="Vanderbilt University" img="/assets/img/people/nabil.jpg" url="" %}
 </div>
